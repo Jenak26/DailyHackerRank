@@ -39,13 +39,14 @@ Let’s keep the streak alive 🚀
 
 ---
 
-## 🗓️ Progress Log  
-<!-- PROGRESS-START -->
+## 🗓️ Progress Log
 
-<!-- PROGRESS-END -->
+| Day | Date       | Problem Name               | Level  | Status   |
+|-----|------------|----------------------------|--------|----------|
+| 1   | 08-07-2025 | Welcome to Java   | Easy   | ✅ Done  |
+<!--| 2   | 2025-07-09 | <Your Next Problem Name>   | Easy   | ✅ Done  |
 
----
+<!-- Keep adding rows below like this -->
 
-_(_Updated automatically via `generate_progress.py` script)_  
 
 
