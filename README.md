@@ -44,7 +44,7 @@ Let’s keep the streak alive 🚀
 | Day | Date       | Problem Name               | Level  | Status   |
 |-----|------------|----------------------------|--------|----------|
 | 1   | 08-07-2025 | Welcome to Java   | Easy   | ✅ Done  |
-<!--| 2   | 2025-07-09 | <Your Next Problem Name>   | Easy   | ✅ Done  |
+| 2   | 2025-07-09 | Java Stdin and Stdout I   | Easy   | ✅ Done  |
 
 <!-- Keep adding rows below like this -->
 
