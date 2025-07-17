@@ -46,6 +46,7 @@ Let’s keep the streak alive 🚀
 | 1   | 08-07-2025 | Welcome to Java   | Easy   | ✅ Done  |
 | 2   | 09-07-2025 | Java Stdin and Stdout I   | Easy   | ✅ Done  |
 | 3   | 16-07-2025 | java if-Else | Easy              | ✅ Done  |
+| 4   | 17-07-2025 | Java Stdin and Stdout II  | Easy   | ✅ Done  |
 
 <!-- Keep adding rows below like this -->
 
